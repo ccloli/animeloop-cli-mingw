@@ -1,3 +1,5 @@
+> Some changes made on this fork and [animeloop-cli-msvc](https://github.com/ccloli/animeloop-cli-msvc) has been merged to original repo, so you can compile it directly, check it out at [moeoverflow/animeloop-cli](https://github.com/moeoverflow/animeloop-cli).
+
 # animeloop-cli
 ![Animeloop Logo](https://animeloop.org/files/animeloop.gif)
 
